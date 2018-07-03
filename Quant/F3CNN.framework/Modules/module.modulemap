@@ -1,0 +1,6 @@
+framework module F3CNN {
+  umbrella header "F3CNN.h"
+
+  export *
+  module * { export * }
+}
